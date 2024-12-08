@@ -1,0 +1,1 @@
+This repository contains a JavaScript function that demonstrates a common error: unhandled input types. The function `foo` attempts to add two numbers, but it doesn't properly handle cases where the inputs are not numbers. This can lead to unexpected errors. The `bugSolution.js` file provides a corrected version of the function with improved input validation.
